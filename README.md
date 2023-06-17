@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnuragMTP
-- 👀 I’m interested in space-tech, finance/economics, electronics, agriculture and synthwave music.
-- 🌱 I’m currently learning phython.
+- 👀 I’m interested in space-tech, finance/economics, electronics, agriculture....
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects in any of the above listed.
 - 📫 To reach me just give me a shout at https://www.linkedin.com/in/anuragmtp/ 
 
